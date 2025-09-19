@@ -8,7 +8,7 @@ function App() {
     <>
       <Navbar />
       <div className="container my-3">
-        <Container label='Enter Text Here' />
+        <Container label='Enter Text In Input' />
       </div>
       <Footer />
     </>
